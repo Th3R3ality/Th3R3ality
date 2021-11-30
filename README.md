@@ -1,5 +1,5 @@
 - 👋 Hello.
-- 👀 looking for c++.
+- 👀 looking for cheap c++.
 - 🌱 growing illegal c++ in my backyard.
 - 📞 Reality#7777
 
