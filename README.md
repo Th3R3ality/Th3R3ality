@@ -1,7 +1,7 @@
 - 👋 Hello.
 - 👀 looking for cheap c++.
-- 🌱 growing illegal c++ in my backyard.
-- 📞 Reality#7777
+- ✨ wow.
+- 📞 Reality#0002
 
 <!---
 Th3R3ality/Th3R3ality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
