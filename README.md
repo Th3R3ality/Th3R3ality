@@ -1,6 +1,6 @@
-- 👋 Hello.
-- 👀 looking for cheap c++.
-- ✨ wow.
+- 👋 Hello
+- 👀 c++
+- ✨ :O
 - 📞 Reality#0002
 
 <!---
