@@ -1,11 +1,15 @@
 <h1 align="center">README.md</h1>
 <h3 align="left">why my chams stop chamming?!?</h3>
 
-hey i just met you
-and this is crazy
-but heres my number
-📞 <@141967261198974985>
-so call me mejby 😸
+hey i just met you <br>
+and this is crazy <br>
+but heres my number <br>
+📞 <@141967261198974985> <br>
+so call me mejby 😸 <br>
+<br>
+<br>
+<br>
+<br>
 
 
 <p align="center">
