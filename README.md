@@ -35,7 +35,6 @@
 https://moe-counter.glitch.me/get/@Th3R3ality?theme=gelbooru
 --->
 <br>
-<br>
 <h1 align="center">
   profile visits
 </h1>
