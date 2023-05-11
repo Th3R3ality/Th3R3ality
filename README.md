@@ -1,11 +1,8 @@
 <h1 align="center">README.md</h1>
-<h3 align="left">@everyone</h3>
 
 
 📞 <@141967261198974985> <br>
-<br>
-<br>
-<br>
+
 <br>
 
 
@@ -29,12 +26,22 @@
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Th3R3ality&show_icons=true&locale=en&layout=compact&theme=dark" alt="Th3R3ality" />
 </p>
+
+<!---
 <p align="center">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Th3R3ality&show_icons=true&locale=en&theme=dark" alt="Th3R3ality" /></td>
 </p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Th3R3ality&label=Profile%20views&color=0e75b6&style=flat" alt="Th3R3ality" /> </p>
-
+https://moe-counter.glitch.me/get/@Th3R3ality?theme=gelbooru
+--->
+<br>
+<br>
+<h1 align="center">
+  profile visits
+</h1>
+<p align="center">
+  <img src="https://count.getloli.com/get/@Th3R3ality?theme=rule34" alt="Th3R3ality" />
+</p>
 <!---
 Th3R3ality/Th3R3ality is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
