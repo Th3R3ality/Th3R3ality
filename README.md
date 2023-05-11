@@ -36,7 +36,7 @@ https://moe-counter.glitch.me/get/@Th3R3ality?theme=gelbooru
 --->
 <br>
 <h1 align="center">
-  profile visits
+  visits
 </h1>
 <p align="center">
   <img src="https://count.getloli.com/get/@Th3R3ality?theme=rule34" alt="Th3R3ality" />
