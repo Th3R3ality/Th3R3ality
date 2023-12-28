@@ -7,12 +7,8 @@
 
 
 <p align="center">
-  <a href="https://www.learncpp.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="60" height="60"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="60" height="60"/>
-  </a>
 </p>
 
 <p align="center">
